@@ -1,6 +1,33 @@
 Device: POCO X7 Pro
 Device code name: rodin
-Device maintainer: ido@rexprjkt°
+Device maintainer: ERON
+
+Date - 01/07/2026
+=================
+- 2.7-PROXIMA_BETA-20260701
+- Switched to HyperOS 2 Cameor better compatibility
+- Gapps included
+- Add product partition APN configuration XMLs from stock dump.
+- Fixes an issue where mobile data/internet fails to work automatically 
+  on first boot due to a completely blank or missing APN list.
+- Includes 5G and XCAP specific configurations to ensure proper 
+  network routing and carrier compatibility for MediaTek RIL.
+- Enabled FUSE passthrough by default for better I/O performance.
+- Optimized animations, uclamp (foreground group), and schedutil rate limits.
+- Cleaned up SurfaceFlinger properties and imported high_fps props.
+- Optimized DVFS parameters on boot.
+- Upstreamed fingerprint to OS3.0.10.0.WOJMIXM.
+- Base OS2.0.204.0.VOJMIXM blobs
+- Miscellaneous system-wide stability fixes
+
+Date - 31/05/2026
+=================
+- 2.7-PROXIMA_BETA-20260531
+- GMS included (Signed build)
+- Base OS2.0.204.0.VOJMIXM blobs
+- Resolved Dolby audio bugs affecting Indian variants
+- Increased SurfaceFlinger (SF) idle timer for smoother refresh rate switching and reduced jitter
+- Miscellaneous system-wide stability fixes
 
 Date - 10/04/2026
 =================
@@ -50,4 +77,3 @@ Date - 09/01/2026
 - Shipped ViPER4AndroidFX
 - Switch architecture to armv9-a
 - Tune out the powerhint and surfaceflinger configuration
-
