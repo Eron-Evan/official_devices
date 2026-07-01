@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1778399274,
-      "filename": "axion-2.6-QUASIS-20260510-UNOFFICIAL-GMS-rodin.zip",
-      "id": "83fe554fb1b424dad6e90d2bb15a4632",
+      "datetime": 1782915773,
+      "filename": "axion-2.7-PROXIMA_BETA-20260701-UNOFFICIAL-GMS-rodin.zip",
+      "id": "071159acf840b1fa7d04b6b1bf9715dd",
       "romtype": "UNOFFICIAL",
-      "size": 2982193584,
-      "url": "https://downloads.sourceforge.net/project/ota-updates/rodin_updates/axion-2.6-QUASIS-20260510-UNOFFICIAL-GMS-rodin.zip",
-      "version": "2.6"
+      "size": 3043242356,
+      "url": "https://downloads.sourceforge.net/project/ota-updates/rodin_updates/axion-2.7-PROXIMA_BETA-20260701-UNOFFICIAL-GMS-rodin.zip",
+      "version": "2.7"
     }
   ]
 }
